@@ -20,18 +20,15 @@ creative tools that mix design, engineering, and experimentation
 
 software that pushes into new or unusual ideas just to see what’s possible
 
+
+
 Stats & Activity
 <img src="https://github-readme-stats.vercel.app/api?username=Agastya&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Agastya&theme=tokyonight" height="165" /> </div>
 
 Goals
 
 Keep shipping real projects. Keep exploring audio tech. Keep leveling up the craft while building things people actually want to use.
-
-
 <div align="center">
-Motion Zone
-
-A subtle animated divider just for style.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </div>
 
